@@ -1,3 +1,7 @@
+/* Copyright 2024 Google LLC.
+SPDX-License-Identifier: Apache-2.0
+Original source at https://github.com/gorhill/publicsuffixlist.js */
+
 /*******************************************************************************
 
     publicsuffixlist.js - an efficient javascript implementation to deal with
